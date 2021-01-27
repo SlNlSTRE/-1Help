@@ -1,4 +1,6 @@
 ---discord= Sinistre#9906
+---discord= Shazuub#7284
+
 
 
 RegisterCommand('help', function()
